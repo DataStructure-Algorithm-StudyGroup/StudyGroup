@@ -1,4 +1,4 @@
-public class OldestAndNewestTweet {
+public class SimpleSort {
 
     public void findOldestAndNewestTweet(int[] tweetArray) {
 

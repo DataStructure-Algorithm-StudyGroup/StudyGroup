@@ -1,0 +1,7 @@
+Basic commands
+Copy all the lines
+g g " * y G
+
+gg to get the cursor to the first character of the file
+"*y to start a yank command to the register * from the first line, until...
+G to go the end of the file
